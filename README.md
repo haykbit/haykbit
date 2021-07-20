@@ -1,7 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/haykbit/haykbit/master/wave.gif" width="30px">
 
 
-I'm Hayk Petrosyan,
+I'm Hayk Petrosyan, an ex sysadmin who felt in love with programming and started a master in Full Stack Developing.
+
+- 🌱 I’m currently learning advanced React and PHP. In my free time I learn AI programming with Python.
+
+- 🔭 I’m currently working on my portfolio.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=8)](https://github.com/haykbit/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -18,9 +25,6 @@ I'm Hayk Petrosyan,
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=8)](https://github.com/haykbit/github-readme-stats)
-
 <!--
 **haykbit/haykbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
