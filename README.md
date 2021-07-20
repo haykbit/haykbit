@@ -12,17 +12,17 @@ I'm Hayk Petrosyan, a former sysadmin who fell in love with Linux bash programmi
 ![](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=white&color=005eff)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=005eff)
 <br/>
-![](https://img.shields.io/badge/Web-html-informational?style=for-the-badge&logo=web&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Styling-css-informational?style=for-the-badge&logo=style&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=005eff)
+![](https://img.shields.io/badge/Web-html-informational?style=for-the-badge&logo=web&logoColor=white&color=f54242)
+![](https://img.shields.io/badge/Styling-css-informational?style=for-the-badge&logo=style&logoColor=white&color=f54242)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f54242)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=f54242)
 <br/>
-![](https://img.shields.io/badge/Code-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=005eff)
+![](https://img.shields.io/badge/Code-Php-informational?style=for-the-badge&logo=php&logoColor=white&color=42f5ad)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=42f5ad)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=42f5ad)
 <br/>
-![](https://img.shields.io/badge/DDBB-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=005eff)
-![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=005eff)
+![](https://img.shields.io/badge/DDBB-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=ffd500)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=ffd500)
 
 <!--
 **haykbit/haykbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
