@@ -3,9 +3,9 @@
 
 I'm Hayk Petrosyan, an ex sysadmin who felt in love with programming and started a master in Full Stack Developing.
 
-- 🌱 I’m currently learning advanced React and PHP. In my free time I learn AI programming with Python.
+🌱  I’m currently learning advanced React and PHP.
 
-- 🔭 I’m currently working on my portfolio.
+🔭  I’m currently working on my portfolio.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=8)](https://github.com/haykbit/github-readme-stats)
