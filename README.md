@@ -6,8 +6,8 @@
 <a href="https://github.com/haykbit/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&layout=compact)" />
 </a>
-<a href="https://github.com/haykbit/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haykbit&repo=convoychat" />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true" />
 </a>
 
 <!--
