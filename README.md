@@ -1,11 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/haykbit/haykbit/master/wave.gif" width="30px">
 
+I'm Hayk Petrosyan, a former sysadmin who fell in love with Linux bash programming. Currently I am studying a Master in Full Stack Developing.
 
-I'm Hayk Petrosyan, an ex sysadmin who felt in love with programming and started a master in Full Stack Developing.
-
-🌱  I’m currently learning advanced React and PHP.
-
-🔭  I’m currently working on my portfolio.
+🌱  I’m currently learning React and PHP and working on my portfolio.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=8)](https://github.com/haykbit/github-readme-stats)
