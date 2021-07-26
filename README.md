@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/haykbit/haykbit/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/haykbit/haykbit/master/wave.gif" width="30px"> 
 
 I'm Hayk Petrosyan, a former sysadmin who fell in love with Linux bash programming. I am studying a Master in Full Stack Developing.
 
