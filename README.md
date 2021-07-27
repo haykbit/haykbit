@@ -5,7 +5,7 @@ I'm Hayk Petrosyan, a former sysadmin who fell in love with Linux bash programmi
 🌱  I’m currently learning React, PHP and SQL while working on my portfolio.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=8)](https://github.com/haykbit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykbit&langs_count=6)]
 
 ### Technologies & Lenguages ⚡
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=005eff)
