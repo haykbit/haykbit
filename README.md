@@ -2,7 +2,10 @@
 
 I'm Hayk Petrosyan, a former sysadmin who fell in love with Linux bash programming. I am studying a Master in Full Stack Developing.
 
-🌱  I’m currently learning JS, React, PHP, Laravel, MongoDB and Node, while working on my portfolio.
+🔭 I’m currently working on a website for Real Estate Investing.
+🌱 I’m currently learning JS, React, PHP, Laravel, MongoDB and Node, while working on my portfolio.
+💬 Ask me about anything you need!
+📫 How to reach me: hpetrosyan.projects@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haykbit&show_icons=true)
 
